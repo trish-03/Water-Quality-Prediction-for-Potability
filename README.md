@@ -1,6 +1,6 @@
 # Water Quality Prediction for Potability
 
-This project implements a water quality predictor to determine potability using machine learning techniques in Python. It includes preprocessing steps, model training, evaluation, and prediction functionalities.
+This project implements a water quality predictor to determine potability using machine learning techniques in Python (3.12.4). It includes preprocessing steps, model training, evaluation, and prediction functionalities.
 
 ## Dataset
 
